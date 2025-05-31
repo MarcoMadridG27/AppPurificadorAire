@@ -1,0 +1,14 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.2.0
+2 info using node@v20.17.0
+3 silly config load:file:C:\Users\ASUS\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\ASUS\purificador-app\.npmrc
+5 silly config load:file:C:\Users\ASUS\.npmrc
+6 silly config load:file:C:\Users\ASUS\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm outdated react-dom expo-linear-gradient expo-symbols react-native react-native-linear-gradient date-fns react-native-webview expo-router react react-native-web @expo/vector-icons eslint-config-expo expo-font eslint expo-web-browser react-native-gesture-handler react-native-safe-area-context expo-system-ui typescript @react-navigation/native expo react-native-paper react-native-svg react-native-reanimated @react-native-community/slider @react-navigation/bottom-tabs expo-image react-native-chart-kit @react-navigation/elements expo-splash-screen react-native-screens @babel/core @react-navigation/native-stack expo-linking @types/react expo-status-bar expo-blur expo-haptics @react-native-async-storage/async-storage expo-constants react-native-vector-icons
+8 verbose argv "outdated" "--json" "react-dom" "expo-linear-gradient" "expo-symbols" "react-native" "react-native-linear-gradient" "date-fns" "react-native-webview" "expo-router" "react" "react-native-web" "@expo/vector-icons" "eslint-config-expo" "expo-font" "eslint" "expo-web-browser" "react-native-gesture-handler" "react-native-safe-area-context" "expo-system-ui" "typescript" "@react-navigation/native" "expo" "react-native-paper" "react-native-svg" "react-native-reanimated" "@react-native-community/slider" "@react-navigation/bottom-tabs" "expo-image" "react-native-chart-kit" "@react-navigation/elements" "expo-splash-screen" "react-native-screens" "@babel/core" "@react-navigation/native-stack" "expo-linking" "@types/react" "expo-status-bar" "expo-blur" "expo-haptics" "@react-native-async-storage/async-storage" "expo-constants" "react-native-vector-icons"
+9 verbose logfile logs-max:10 dir:C:\Users\ASUS\purificador-app\UsersASUSAppDataLocalnpm-cache\_logs\2025-05-31T07_46_50_424Z-
+10 verbose logfile C:\Users\ASUS\purificador-app\UsersASUSAppDataLocalnpm-cache\_logs\2025-05-31T07_46_50_424Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly logfile done cleaning log files

@@ -1,6 +1,7 @@
 {
   "name": "purificador-app",
   "main": "expo-router/entry",
+  "license": "MIT",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
